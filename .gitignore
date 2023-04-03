@@ -1,0 +1,6 @@
+*.log
+/dic/
+static/dic
+
+
+
